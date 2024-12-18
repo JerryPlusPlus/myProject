@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/topBar">
+        <file>images/huya_nonbackground.jpg</file>
+        <file>images/back.png</file>
+        <file>images/close.png</file>
+        <file>images/close.svg</file>
+        <file>images/gift.png</file>
+        <file>images/gift.svg</file>
+        <file>images/litleRocket.png</file>
+        <file>images/litleRocket.svg</file>
+        <file>images/logo.png</file>
+        <file>images/max.png</file>
+        <file>images/max.svg</file>
+        <file>images/message.png</file>
+        <file>images/message.svg</file>
+        <file>images/min.png</file>
+        <file>images/min.svg</file>
+        <file>images/refresh.png</file>
+        <file>images/search.png</file>
+        <file>images/startlive.png</file>
+        <file>images/startlive.svg</file>
+        <file>images/unfold.png</file>
+        <file>images/unfold.svg</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>images/huya.png</file>
+        <file>images/huya.svg</file>
+        <file>images/huyafavicon.ico</file>
+    </qresource>
+</RCC>

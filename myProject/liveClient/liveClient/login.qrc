@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/left_part">
+        <file>images/hover_QRcode.png</file>
+        <file>images/qq.png</file>
+        <file>images/QRcode.png</file>
+        <file>images/wechat.png</file>
+        <file>images/weibo.png</file>
+    </qresource>
+    <qresource prefix="/right_part"/>
+    <qresource prefix="/QSS">
+        <file>login.qss</file>
+    </qresource>
+</RCC>
